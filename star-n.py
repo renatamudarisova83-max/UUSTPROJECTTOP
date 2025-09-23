@@ -5,6 +5,8 @@ import webbrowser
 
 
 
+
+
 bot=telebot.TeleBot('8466977919:AAH9aIL-BK6zP45iktikLGwLQ01oSCzTaj4')
 @bot.message_handler(commands=['isu'])
 # def ISU(message):
